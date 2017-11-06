@@ -3,14 +3,14 @@ layout: default
 title: People
 ---
 
-Change’s members primarily come from Computer Science and Engineering (CSE), Technology and Social Change (TASHA), Information School (iSchool), Evans School of Public Affairs (Evans), Human Centered Design and Engineering (HCDE), Bio and Health Informatics (BHI) and School of Public Health (SPH).
+Change’s members primarily come from Computer Science and Engineering (CSE), Technology and Social Change (TASCHA), Information School (iSchool), Evans School of Public Affairs (Evans), Human Centered Design and Engineering (HCDE), Bio and Health Informatics (BHI) and School of Public Health (SPH).
 
 faculty
 Richard Anderson (CSE) Ruth Anderson (CSE) Tom Anderson (CSE) Gaetano Borriello (CSE) Anita Verna Crofts (MCDM) Walter Curioso (BHI) Karen Fisher (iSchool) Batya Friedman (iSchool) Sherrilynne Fuller (BHI) Ricardo Gomez (TASCHA, iSchool) Andrew Gordon (TASCHA, Evans) Ed Lazowksa (CSE) Bill Lober (GH, BHI, BNHS) Beth Kolko (HCDE) Rob Nathan (Radiology) Judy Wasserheit (SPH)
 affiliate faculty
 Tapan Parikh (CSE)
 staff
-Melody Clark (TASCHA) Chris Coward (TASCHA) Jan Flowers (BNHS, GH) Becky Matter (CTDS) Rebecca Sears (TASCHA) Edgar Sioson (IHME) Lori Stevens (IT) Joe Sullivan (TASCHA)
+Chris Coward (TASCHA) Jan Flowers (BNHS, GH) Becky Matter (CTDS) Rebecca Sears (TASCHA) Edgar Sioson (IHME) Lori Stevens (IT) Joe Sullivan (TASCHA)
 graduate students
 Waylon Brunette (CSE) Rohit Chaudhri (CSE) Nicola Dell (CSE) Colin Dixon (CSE) Chad Driesbach (HCDE) Mayank Goel (CSE) Alexis Hope (HCDE) Bo Qin (CSE) Emma Rose (HCDE) Ginger R. Ruddy (SPH) Karen Saville (HCDE) Amit Saxena (Chemistry) Aditya Vashistha (CSE) Rebecca Walton (HCDE)
 undergraduate students
